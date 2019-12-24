@@ -8,11 +8,22 @@
 
  h1 {
     font-family: arial;
+    font-size: 35px;
     color: rgb(19, 0, 128);
- }
+   }
+
+   h2 {
+      font-size: 30px;
+      margin-left: 40px;
+
+   }
 
  .c1 {
     font-family: arial;
+    font-size: 18px;
+    margin-left: 40px;
+    color: rgb(68, 27, 11);
+
  }
 
  .c2 {
