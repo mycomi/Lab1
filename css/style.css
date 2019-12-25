@@ -14,14 +14,20 @@
 
    h2 {
       font-size: 30px;
-      margin-left: 40px;
+      margin-left: 150px;
 
    }
+
+ .c0 {
+   font-family: arial;
+   font-size: 18px;
+
+}
 
  .c1 {
     font-family: arial;
     font-size: 18px;
-    margin-left: 40px;
+    margin-left: 150px;
     color: rgb(68, 27, 11);
 
  }
