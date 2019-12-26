@@ -6,6 +6,10 @@
     margin-left: 40px;
  } */
 
+body{
+   background-color: rgb(209, 245, 242);
+}
+
  h1 {
     font-family: arial;
     font-size: 35px;
@@ -34,6 +38,12 @@
 
  .c2 {
     color: rgb(159, 184, 16);
+ }
+
+ .cf{
+   font-family: arial;
+   font-size: 18px;
+   margin-left: 50px;
  }
 
 
